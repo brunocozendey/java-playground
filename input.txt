@@ -1,0 +1,4 @@
+Esse é um arquivo de texto!
+
+Pode ser um Hello Wordl qualquer!
+
