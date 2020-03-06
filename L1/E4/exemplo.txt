@@ -1,0 +1,16 @@
+Rubens Andrade
+Emp01
+500.00
+0
+Paulo Ricardo
+Emp02
+500.00
+2
+Alberto Roberto
+Emp03
+500.00
+3
+Tereza Cristina
+Emp04
+700.00
+0

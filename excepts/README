@@ -1,0 +1,13 @@
+Criar diretório excps
+Dentro dele criar o pacote br.uerj.ime.lp2.exc
+Colocar as exceções neste pacote.
+
+Criar diretório libs
+Dentro dele criar o pacote br.uerj.lp2.calc
+Colocar a classe calculadora neste pacote
+
+Criar o diretório apps
+dentro dele criar o programa principal no pacote default
+
+acertar o CLASSPATH
+executar o programa do ~

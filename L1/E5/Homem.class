@@ -1,0 +1,22 @@
+public class Homem extends PessoaIMC
+{
+    @override
+    protected String resultIMC()
+    {
+        double imc = super.calculaIMC(p,a)
+        if (imc < 20.7){
+            return "Abaixo do pedo atual."
+        }
+        else if ((imc <= 20.7)&&(imx<=26.4)){
+            return "Peso ideal."
+        }
+        else {
+            return "Acima do peso ideal."
+        }
+
+    }
+
+    public String toString(){
+        return super.toString()+this.resultIMC()
+    }
+}
